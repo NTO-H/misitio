@@ -1,0 +1,43 @@
+  <!-- listado para numero rumano  -->
+    <!-- <ol type ="i">
+    <li>pasatiempo 1</li> 
+    <li>pasatiempo 2</li> 
+    <li>pasatiempo 3</li> 
+    <li>pasatiempo 4</li> 
+    <li>pasatiempo 5</li> 
+</ol> -->
+
+
+   <!-- lista con puntos  -->
+    <!-- <ul>
+    <li>pasatiempo 1</li> 
+    <li>pasatiempo 2</li> 
+    <li>pasatiempo 3</li> 
+    <li>pasatiempo 4</li> 
+    <li>pasatiempo 5</li> 
+</ul> -->
+
+
+    <!-- llamado de archivo css -->
+    <!-- <link href="style.css" rel="stylesheet" /> -->
+
+
+    llamar una imagen
+    <img src="WhatsApp Image 2023-05-17 at 7.22.34 AM.jpeg" alt="Nicolas Antonio" height="30px">
+
+
+       
+    <!-- es un parrafo:articulo  -->
+    <article> </article>
+     
+
+     <br> dar espacio
+
+
+    maneras de nombrar una etiqueta 
+    -id
+    -class
+
+
+    <!-- link para acceder en un texto
+    <a href="http://www.">Click</a> -->
